@@ -1,6 +1,6 @@
 package turing.edu.az.module01.lesson02;
 import java.util.Scanner;
-public class Main {
+public class SeasonApp {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int a;
