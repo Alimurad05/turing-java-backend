@@ -1,5 +1,4 @@
-package turing.edu.az.module02;
-import java.util.Locale;
+package turing.edu.az.module01;
 import  java.util.Scanner;
 public class Reverseword {
     public static void main(String[] args) {

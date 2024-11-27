@@ -1,8 +1,10 @@
-package turing.edu.az.module02;
+package turing.edu.az.module01;
 import java.util.Scanner;
 
-public class Bucksinbankk {
+public class Bucksinbank {
+
     public static void main(String[] args) {
+
         Scanner in = new Scanner(System.in);
         int money = in.nextInt();
         int sum=0, sum1=0;
@@ -11,9 +13,6 @@ public class Bucksinbankk {
             a++;
             sum=a+sum*2;
             sum1+=sum;
-
-
-
         }
         System.out.println(a);
     }

@@ -1,4 +1,4 @@
-package turing.edu.az.module02;
+package turing.edu.az.module01;
 import  java.util.Scanner;
 public class LastCharacter {
     public static void main(String[] args){
